@@ -19,7 +19,7 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://client1:client2@cluster0.
 RESTRICT = strtobool(os.environ.get("RESTRICT", "True"))
 
 FORCE_SUB_1 = int(os.environ.get("FORCE_SUB_1", "-1001713716789"))
-FORCE_SUB_2 = int(os.environ.get("FORCE_SUB_2", "-100979453697"))
+FORCE_SUB_2 = int(os.environ.get("FORCE_SUB_2", "-1001990752733"))
 FORCE_SUB_3 = int(os.environ.get("FORCE_SUB_3", "0"))
 FORCE_SUB_4 = int(os.environ.get("FORCE_SUB_4", "0"))
 
